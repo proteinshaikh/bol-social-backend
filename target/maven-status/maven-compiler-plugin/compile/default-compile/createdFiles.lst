@@ -1,6 +1,0 @@
-com/bol/post/Post.class
-com/bol/BolApplication.class
-com/bol/post/PostRepository.class
-com/bol/post/PostController.class
-com/bol/post/CreatePostRequest.class
-com/bol/post/DemoData.class
